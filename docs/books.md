@@ -6,6 +6,7 @@
 - [《中央帝国的财政密码》](https://book.douban.com/subject/27007549/)
 - [《密码朋克--自由与互联网的未来》](https://book.douban.com/subject/27054249/)   
 - [《精通比特币》](https://github.com/inoutcode/bitcoin_book_2nd)
+- [《精通以太坊》](https://weread.qq.com/web/reader/c0532740718247c1c0545f7k70e32fb021170efdf2eca12)
 - [《货币未来》](https://book.douban.com/subject/35178904/)
 - [《历代经济变革得失》](https://book.douban.com/subject/24851460/)
 
